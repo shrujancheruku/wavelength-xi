@@ -122,7 +122,7 @@ None of these engines should be adopted as-is. The ideas are what transfer.
 7. Hattrick, "Match: The basics" (official; via search snippet): https://hattrick.org/Help/Rules/MatchBasics.aspx
 8. Hattrick wiki: Counter-attacks, Pressing, The ABC of Tactics (via search snippets): https://wiki.hattrick.org/wiki/Counter-attacks, https://wiki.hattrick.org/wiki/Pressing, https://wiki.hattrick.org/wiki/The_ABC_of_Tactics
 9. Hattrick Organizer source, `core/prediction/engine` (`BaseActionGenerator.java`, `ActionGenerator.java`, `MatchPredictionManager.java`), LGPL-3.0: https://github.com/ho-dev/HattrickOrganizer/tree/master/src/main/java/core/prediction/engine
-10. Bygfoot source, `src/live_game.c` and `src/game.c` (GPL-2.0 mirror of the SourceForge repo): https://github.com/tstellar/bygfoot/blob/master/src/live_game.c
+10. Bygfoot source, `src/live_game.c` and `src/game.c` (GPL-2.0 mirror of the SourceForge repo): https://github.com/tstellar/bygfoot/blob/build-improvements/src/live_game.c
 11. footballSimulationEngine README v5.0.0 (MIT): https://cdn.jsdelivr.net/npm/footballsimulationengine@5.0.0/readme.md; repo: https://github.com/GallagherAiden/footballSimulationEngine
 12. Google Research blog, "Introducing Google Research Football" (2019): https://research.google/blog/introducing-google-research-football-a-novel-reinforcement-learning-environment/; paper: https://arxiv.org/abs/1907.11180
 13. See [2].
